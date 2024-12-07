@@ -40,6 +40,7 @@ plt.show()
 ```
 ## Output
 
+![Screenshot (17)](https://github.com/user-attachments/assets/7cfac4f7-4f9f-47fc-b472-26293d91c010)
 
 
 
