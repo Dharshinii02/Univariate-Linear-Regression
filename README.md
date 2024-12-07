@@ -43,7 +43,7 @@ plt.show()
 
 
 
-![Screenshot 2024-12-04 081446](https://github.com/user-attachments/assets/5f2b8acf-b11a-4662-a37e-d45bcbf05d09)
+
 
 
 ## Result
